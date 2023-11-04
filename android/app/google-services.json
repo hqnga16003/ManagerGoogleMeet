@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "113412083891",
+    "project_id": "manager--meet",
+    "storage_bucket": "manager--meet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113412083891:android:2c5ab12628bade1a4ee0c6",
+        "android_client_info": {
+          "package_name": "com.example.manager_google_meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113412083891-m3kqq19qrj8ll64a4hkdeq6201o4b0c2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manager_google_meet",
+            "certificate_hash": "2f87773517d86b7fb4691add2d5c989ee3c6da83"
+          }
+        },
+        {
+          "client_id": "113412083891-lbo354ck89mfakfsfghqrihs5qmlrt5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTsODWy1cK0H8jxm4NGT-R_G9EiTo7vfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113412083891-lbo354ck89mfakfsfghqrihs5qmlrt5a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113412083891-1pdco5jvoedldu0d98rjspsf3oslomvm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.managerGoogleMeet.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

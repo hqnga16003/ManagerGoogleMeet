@@ -29,5 +29,7 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
+        <meta-data android:name="clientId" android:value="113412083891-m3kqq19qrj8ll64a4hkdeq6201o4b0c2.apps.googleusercontent.com" />
+
     </application>
 </manifest>
